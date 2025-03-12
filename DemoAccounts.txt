@@ -1,0 +1,28 @@
+AC :- rakeshSharma-1423
+A/C :- bradtraversy
+AC :- johnnys7n
+AC :- rakeshSharma-1423
+AC : - tanisha0605
+
+
+Developers & Programmers
+
+Data Analysts & Researchers
+
+Open Source Contributors
+
+Recruiters & Hiring Managers
+
+Recruiters & Hiring Managers
+
+Students & Learners
+
+
+1.Real-time GitHub Activity Tracker – Jo user login kare, uske following users ki recent activity (like commits, PRs, or repo updates) real-time me fetch karke ek feed section me show karo.
+2.AI-Powered Profile Summary – Ek AI model integrate karo jo kisi bhi profile ke repositories analyze karke ek short summary de sakta hai ki wo user kis type ke projects par kaam karta hai.
+3.GitHub Repo Recommendations – User ke liked profiles aur past searches ke basis pe usko relevant repositories recommend karo.
+4.Code Snippet Preview – Popular repositories ke andar ke code snippets ko show karne ka ek feature add karo, taki bina repository open kiye hi kuch key files ka preview mil sake.
+
+5.Automated Code Quality Review – AI-based tool jo candidate ke repos ke code style, complexity, aur best practices follow karne ka analysis kare.
+
+6.Code Snippet Preview – Repositories ke andar ke key files ka preview bina repo open kiye dikhaye.(next page par code or uska main login show hoga jisse kisi user ko uska pura code analysis karne me aasani hogi)
